@@ -9,7 +9,7 @@
 3. Paste the URL in the URL of repository to clone:
 4. Select where on this PC you would like to save your project
 5. When prompted click to open the blank.yyp file
-6. WHen the project opens in the asset browser (right panel) expand game options and double click Main
+6. When the project opens in the asset browser (right panel) expand game options and double click Main
 ![image](https://user-images.githubusercontent.com/69337381/129446405-a046f389-0687-469b-ae28-41eb5ec9b98b.png)
 7. Check Enable source control and type your name in the Author
 ![image](https://user-images.githubusercontent.com/69337381/129446421-87aa2039-ac84-4332-a474-6434d58b3402.png)
